@@ -1,0 +1,8 @@
+Buenas tardes profe le estaba agregando dos login uno para la compra normal y otro para entrar como administrador para agregar las peliculas o en este caso "luchadores o campeones" como dice la pagina.
+
+para abrir la pagina normal es en la carpeta de login en index.php para entrar como registro 
+
+y para entrar como modo administrador es tienda\src\categoria o cualquiera de esos archivos
+
+ahi puedo agregar más luchadores y escoger la categoria.
+

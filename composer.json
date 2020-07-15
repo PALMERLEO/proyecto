@@ -1,0 +1,40 @@
+{	
+
+	"name": "palmer/miproyecto",
+	"description": "mi proyecto palmer",
+	"type": "proyecto",
+	"license": "MIT",
+	"authors": [
+	
+	
+	 		{
+				"name": "Palmer de Leon",
+				"email": "palmerzero31@gmail.com"
+				},
+				{
+					
+				"name": "Palmer de Leon",
+				"email": "palmerzero31@gmail.com"
+					
+					}
+				
+				
+	],
+	"require": {
+		
+			
+		
+		},
+		"autoload": {
+			
+			"psr-4": {
+						
+					"palmertienda\\":"src/"
+				}
+			
+			}
+	
+	
+	
+	
+}
